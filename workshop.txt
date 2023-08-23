@@ -1,0 +1,20 @@
+version=1
+id=3024618849
+title=Pillow's Random Spawns Russian Translation
+description=!ОРИГИНАЛЬНЫЙ МОД НЕ ТРЕБУЕТСЯ!
+description=
+description=Русская версия прекрасного мода, созданного pillow
+description=Страница оригинального мода: https://steamcommunity.com/sharedfiles/filedetails/?id=1911132112
+description=
+description=Все кредиты и респекты создателю оригинального мода - pillow
+description=
+description=-------------------------------
+description=
+description=!NO ORIGINAL MOD REQUIRED!
+description=
+description=Russian version of a beautiful mod created by pillows
+description=Original mod page: https://steamcommunity.com/sharedfiles/filedetails/?id=1911132112.
+description=
+description=All credits and respects to the creator of original mod - pillow
+tags=Build 41
+visibility=public
